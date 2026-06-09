@@ -17,7 +17,7 @@ users.
 Inside Claude Code, add the SaaScend marketplace, then install the suite:
 
 ```
-/plugin marketplace add itisALLAN/revops-ai-readiness-plugin
+/plugin marketplace add saascend-org/revops-ai-readiness-plugin
 /plugin install revops-ai-readiness-suite@saascend
 ```
 
